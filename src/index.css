@@ -91,7 +91,7 @@ body {
   justify-content: center;
 }
 
-@media (max-width:762px) {
+@media (max-width:883px) {
   .main {
     flex-direction: column;
     width: 100%;
